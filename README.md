@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Ygor
 
-<!--
-**ymjaques/ymjaques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computational physicist and data scientist** interested in computational tools across **materials science, chemistry, physics, and biology**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Technologies
+
+![OpenFOAM](https://img.shields.io/badge/-OpenFOAM-0055FF?style=flat-square&logo=opencollective)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LAMMPS](https://img.shields.io/badge/-LAMMPS-FF6F00?style=flat-square)
+
+---
+
+## 📂 Featured Projects
+
+- **Project 1** – Brief description. [Repo Link](#)  
+- **Project 2** – Brief description. [Repo Link](#)  
+- **Project 3** – Brief description. [Repo Link](#)  
+
+---
+
+## 📫 Contact Me
+
+- [Email](mailto:your.email@example.com)  
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [Personal Website](https://yourwebsite.com)  
